@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "Fiat",
+    "model": "Uno",
+    "price": 50000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Gol",
+    "price": 55000
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Onix",
+    "price": 60000
+  },
+  {
+    "brand": "Hyundai",
+    "model": "HB20",
+    "price": 65000
+  },
+  {
+    "brand": "Ford",
+    "model": "Ka",
+    "price": 45000
+  },
+  {
+    "brand": "Renault",
+    "model": "Kwid",
+    "price": 40000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Etios",
+    "price": 70000
+  },
+  {
+    "brand": "Nissan",
+    "model": "March",
+    "price": 48000
+  },
+  {
+    "brand": "Honda",
+    "model": "Fit",
+    "price": 75000
+  },
+  {
+    "brand": "Jeep",
+    "model": "Renegade",
+    "price": 100000
+  },
+  {
+    "brand": "Fiat",
+    "model": "Mobi",
+    "price": 42000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "price": 80000
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Spin",
+    "price": 85000
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "price": 120000
+  },
+  {
+    "brand": "Ford",
+    "model": "EcoSport",
+    "price": 95000
+  },
+  {
+    "brand": "Renault",
+    "model": "Duster",
+    "price": 105000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Yaris",
+    "price": 95000
+  },
+  {
+    "brand": "Nissan",
+    "model": "Kicks",
+    "price": 115000
+  },
+  {
+    "brand": "Honda",
+    "model": "HR-V",
+    "price": 110000
+  },
+  {
+    "brand": "Jeep",
+    "model": "Compass",
+    "price": 130000
+  }
+]
